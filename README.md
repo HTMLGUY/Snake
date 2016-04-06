@@ -1,3 +1,4 @@
 # Snake
 My snake game
-Current Version Beta V.1.2.0
+Current Version Beta V.1.2.1
+
